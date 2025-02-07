@@ -11,7 +11,7 @@ Bu proje, **FastAPI**, **PostgreSQL**, **Alembic** ve **Docker** kullanılarak g
 - **PostgreSQL** ile veri yönetimi
 - **Alembic** ile veritabanı migration yönetimi
 - **Docker Compose** ile kolay kurulum ve dağıtım
-- **Swagger UI** (`/docs`) ve **Redoc UI** (`/redoc`) destekli API dokümantasyonu
+- **Swagger UI** (`/api/swagger`) ve **Redoc UI** (`/api/redoc`) destekli API dokümantasyonu
 
 ---
 
