@@ -10,7 +10,7 @@ from api.schemas.request_schemas import LedgerEntryRequest
 from api.services.ledger_service import LedgerService
 
 router = APIRouter(
-    prefix="/ledger",
+    prefix="/api/ledger",
     tags=["Ledger Operations"],
     responses={404: {"description": "Not Found"}},
 )

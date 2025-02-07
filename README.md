@@ -56,9 +56,9 @@ docker-compose down
 
 Başarılı bir şekilde çalıştırıldığında aşağıdaki adreslerden erişim sağlanabilir:
 
-- **FastAPI API:** [http://localhost:5200](http://localhost:5200)
-- **Swagger UI:** [http://localhost:5200/swagger](http://localhost:5200/swagger)
-- **Redoc UI:** [http://localhost:5200/redoc](http://localhost:5200/redoc)
+- **FastAPI API:** [http://localhost:5200/api/ledger](http://localhost:5200/api/ledger)
+- **Swagger UI:** [http://localhost:5200/api/swagger](http://localhost:5200/api/swagger)
+- **Redoc UI:** [http://localhost:5200/api/redoc](http://localhost:5200/api/redoc)
 
 ---
 
