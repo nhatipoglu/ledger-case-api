@@ -1,0 +1,10 @@
+﻿python-dotenv~=1.0.1
+SQLAlchemy~=2.0.38
+fastapi~=0.115.8
+pydantic~=2.10.6
+starlette~=0.45.3
+uvicorn~=0.34.0
+alembic~=1.7.3
+
+asyncpg~=0.27.0
+psycopg2-binary~=2.9.3
